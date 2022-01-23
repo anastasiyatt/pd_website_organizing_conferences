@@ -29,11 +29,11 @@
 
 ## Индивидуальные планы работ
 
-- [Тубольцева А.С.] (tuboltseva.md)
-- [Борисовец У.Б.] (borisovets.md)
-- [Мирченко А.Г.] (mirchenko.md)
-- [Шельгова Д.С.] (shelgova.md)
-- [Смиянов Д.А.] (smiyanov.md)
+- [Тубольцева А.С.](tuboltseva.md)
+- [Борисовец У.Б.](borisovets.md)
+- [Мирченко А.Г.](mirchenko.md)
+- [Шельгова Д.С.](shelgova.md)
+- [Смиянов Д.А.](smiyanov.md)
 
 ## Отчет
 
